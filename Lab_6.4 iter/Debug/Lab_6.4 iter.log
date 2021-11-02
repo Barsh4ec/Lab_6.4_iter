@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Lab_6.4 iter\Lab_6.4 iter\Source.cpp(53): warning C4715: 'FindMax': not all control paths return a value
+C:\Users\User\source\repos\Lab_6.4 iter\Lab_6.4 iter\Source.cpp(46): warning C4715: 'FindMin': not all control paths return a value
+  Lab_6.4 iter.vcxproj -> C:\Users\User\source\repos\Lab_6.4 iter\Debug\Lab_6.4 iter.exe
